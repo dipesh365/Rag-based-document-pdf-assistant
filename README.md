@@ -153,7 +153,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [AYUSHGUPTA9506](https://github.com/AYUSHGUPTA9506/)
+ 
